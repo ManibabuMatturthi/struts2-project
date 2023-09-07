@@ -9,7 +9,7 @@
 
 	<package name="structdefault" extends="struts-default">
 		<action name="index">
-			<result>/request.jsp</result>
+			<result>/ejemplo1/src/main/webapp/request.jsp</result>
 		</action>
 
 		<action name="request" class="com.empresa.struts.actions.RequestAction"
