@@ -5,7 +5,7 @@
 
 <struts>
 
-	<constant name="struts.devMode" value="false" />
+	<constant name="struts.devMode" value="true" />
 
 	<package name="structdefault" extends="struts-default">
 		<action name="index">
